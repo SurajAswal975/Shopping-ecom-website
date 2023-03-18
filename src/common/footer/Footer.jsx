@@ -44,9 +44,9 @@ const Footer = () => {
           <div className='box'>
             <h2>Contact Us</h2>
             <ul>
-              <li>Plot No 467 and others, Baghamau Main Road, Amar Shaheed Path, Sector 6, Gomti Nagar, Lucknow, Uttar Pradesh 226010 </li>
-              <li>Email: Shivhelp@gmail.com</li>
-              <li>Phone: +91 6394580414</li>
+              <li>Plot No 193 ,srinagar garhwal uttarakhand,district- pauri garhwal 246174 </li>
+              <li>Email: surajaswal975@gmail.com</li>
+              <li>Phone: +91 9997924037</li>
             </ul>
           </div>
         </div>
